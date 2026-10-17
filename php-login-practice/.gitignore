@@ -1,0 +1,13 @@
+# Local database connection settings
+config.php
+.env
+
+# Editor / operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Keep local database exports and backups out of the repository
+*.sql
+*.sql.gz
